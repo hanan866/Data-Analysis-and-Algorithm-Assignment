@@ -4,6 +4,7 @@
 
 #include <algorithm>
 #include <climits>
+#include <iostream>
 #include <vector>
 #include "models.h"
 #include "conflicts.h"
